@@ -23,15 +23,17 @@ This project presents an interactive Tableau dashboard that analyzes the nutriti
 The dataset includes nutritional information for Starbucks beverages, such as:
 
 - Beverage Category
-- Beverage Name
+- Beverage Name & Prep
 - Calories
 - Total Fat
 - Saturated Fat
 - Carbohydrates
+- Cholesterol
+- Vitamins A & C
+- Iron
 - Sugar
 - Protein
 - Caffeine
-- Serving Size
 
 ---
 
